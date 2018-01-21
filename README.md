@@ -1,9 +1,6 @@
 # Hacking-Challenge-Site-Links
-http://web.archive.org/web/20180116113922/http://www.blackroomsec.com/updated-hacking-challenge-site-links/
+http://web.archive.org/web/20180121233134/http://www.blackroomsec.com/updated-hacking-challenge-site-links/
 
-
-Updated Hacking Challenge Site Links
-January 15, 2018 blackroomsec	
 
 These are 70+ sites which offer free challenges for hackers to practice their skills. Some are web-based challenges, some require VPN access to private labs and some are downloadable ISOs and VMs. I’ve tested the links at the time of this posting and they work.
 
@@ -20,6 +17,117 @@ To find CTFs go to https://www.ctftime.org
 On Twitter in the search field type CTF
 
 Google is also your friend.
+
+ 
+
+———————————————
+
+Update 1/21/18 –
+
+I’m going to be putting these in an alphabetically sorted list for you all but here are more sites I’ve been told about or came across in the last few days since I updated.
+
+OWASP reached out to me and mentioned their Juice Shop
+https://www.owasp.org/index.php/OWASP_Juice_Shop_Project
+
+———————————————
+
+Hacker Deep Troll mentioned these:
+
+http://ctf.infosecinstitute.com/index.php
+
+https://ructf.org/index.en.html
+
+http://security.cs.rpi.edu/courses/binexp-spring2015/
+
+———————————————
+
+Hacker Muff Diddly told me about this:
+
+https://labs.cydefe.com/
+
+I checked this out last night and there’s a lot for beginners! I really like this site!
+
+———————————————
+
+Hacker opsxcq showed me their vulnerable projects which look very interesting!
+
+https://github.com/opsxcq/
+
+———————————————
+
+Then there’s SecGen I tweeted about this last year but haven’t had time to play with it.
+
+https://github.com/SecGen/SecGen
+
+Thanks Brendan!
+
+———————————————
+
+Hacker shehackspurple showed me her project Devslop!
+
+https://www.owasp.org/index.php/OWASP_DevSlop_Project
+
+Install and start Docker and GitHub.
+
+Type at your command prompt:
+
+git clone https://github.com/thedeadrobots/pixi.git …
+
+<enter>
+
+cd pixi
+
+<enter>
+
+docker-compose up <enter>
+
+In your browser: http://localhost:8000/login You’re all set!
+
+———————————————
+
+Then there’s hacker Yas3r’s VM that was featured on Hack The Box but you can download now that it’s been retired
+
+https://yaserfaraj.github.io/vm/Nineveh-VM
+
+ 
+
+Hacker Zach Dayton let me know about this
+
+http://www.underthewire.tech/wargames.htm
+
+———————————————
+
+ 
+
+Update 1/17/18 – More links!
+
+ 
+
+https://ctf.hackerfire.com
+
+http://www.janosgyerik.com/hacking-contest-on-a-live-cd/
+
+https://contained.af/
+
+https://smashthestack.org
+
+https://www.pentestpractice.com/challenges
+
+https://ctf.saluslab.net/
+
+https://demo.ctfd.io/
+
+https://potatopla.net/crypto/
+
+https://cryptopals.com/
+
+———————————————
+
+Update 1/16/18 –
+
+This is a hacking site geared towards kids. I built my first pc at 16. I firmly believe in teaching these techniques to youngsters so they can build on solid foundations and grow with technology that is constantly changing!
+
+https://ctf.hak4kidz.com/
 
  
 
@@ -185,7 +293,7 @@ https://www.tdhack.com/
 
 https://www.thisislegal.com
 
-https://www.trythis0ne.com/index.php
+http://www.trythis0ne.com/index.php
 
 https://www.trytodecrypt.com/
 
@@ -200,5 +308,3 @@ https://www.wixxerd.com/
 https://www.yashira.org/
 
 https://www.yoire.com/
-Updated: January 16, 2018
-Categories: Uncategorized	
